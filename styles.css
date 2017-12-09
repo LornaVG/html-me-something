@@ -1,0 +1,56 @@
+title {
+    background-color: lightgrey;
+    color: black;
+    padding: 10px;
+	font-size: 150%;
+}
+
+
+body {
+    background-color: black;
+	margin: 25px;
+}
+header {
+    color: white;
+}
+p {
+    color: white;
+	text-indent: 25px;
+}
+sup {
+    color: white;
+}
+
+img {
+    padding: 10px;
+}
+a {
+    color: white;
+}
+#fn1 {
+    color: lightgrey;
+}
+#fn2 {
+    color: lightgrey;
+}
+#fn3 {
+    color: lightgrey;
+}
+#fn4 {
+    color: lightgrey;
+}
+#fn5 {
+    color: lightgrey;
+}
+#fn6 {
+    color: lightgrey;
+}
+.subtitle {
+    background-color: lightgrey;
+    color: black;
+    padding: 5px;
+	font-size: 125%;
+}
+html {
+    font-family: Helvetica;
+}
